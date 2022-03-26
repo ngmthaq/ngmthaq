@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+## 🛠 Technologies and Tools 🛠
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#777BB4" alt="PHP logo" title="php" height="25" /></span>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+## 🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div></div>
@@ -50,7 +50,8 @@
 </div>
 <br>
 <div></div>
-<h2 align="center">👽 Where to find me 👽</h2>
+
+## 👽 Where to find me 👽
 <br>
 <!-- https://icons8.com -->
 <div align="center">
