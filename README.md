@@ -79,10 +79,8 @@
 <h2 align="center">📑 NOTE* 📑</h2>
 <br>
 <p align="center">
-    <address>
-        Code is like the wind <br>
-        Always by my side
-</address>
+        <i>Code is like the wind</i> <br>
+        <i>Always by my side</i>
 </p>
 <br>
 <h2 align="center"></h2>
