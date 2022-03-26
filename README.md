@@ -78,6 +78,9 @@
 
 <h2 align="center">📑 NOTE* 📑</h2>
 <br>
+
+<h2 align="center"></h2>
+<br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
