@@ -55,7 +55,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://ngmthaq.github.io" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/external-link.png"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/external-link.png"/>
   </a>
   <a href="https://facebook.com/ngmthaq" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngmthaq-facebook" />
