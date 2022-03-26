@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
-# 🛠 Technologies and Tools 🛠
+# 🛠 Technologies 🛠
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#777BB4" alt="PHP logo" title="php" height="25" /></span>
