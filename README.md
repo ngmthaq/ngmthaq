@@ -46,10 +46,10 @@
   <a href="#" title="ngmthaq">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ngmthaq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+<br>
 </div>
+<br>
 <div></div>
-<br>
-<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
