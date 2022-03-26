@@ -55,7 +55,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://ngmthaq.github.id" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/office/100/000000/parse-from-clipboard.png" alt="nmt-cv" />
+    <img width="90" height="90" src="https://img.icons8.com/office/80/000000/parse-from-clipboard.png" alt="nmt-cv" />
   </a>
   <a href="https://facebook.com/ngmthaq" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngmthaq-facebook" />
