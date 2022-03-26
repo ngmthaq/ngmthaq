@@ -78,7 +78,13 @@
 
 <h2 align="center">📑 NOTE* 📑</h2>
 <br>
-
+<p align="center">
+    <address>
+        Code is like the wind <br>
+        Always by my side
+</address>
+</p>
+<br>
 <h2 align="center"></h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
