@@ -82,7 +82,24 @@
           Hi Aliens!<br/>I'm ngmthaq <br/> and I'm from the Earth.
         </div>
         <div class="skills">
-          
+          <div class="skills_icon">
+            
+          </div>
+          <div class="skills_icon">
+            
+          </div>
+          <div class="skills_icon">
+            
+          </div>
+          <div class="skills_icon nodejs">
+            
+          </div>
+          <div class="skills_icon">
+            
+          </div>
+          <div class="skills_icon">
+            
+          </div>
         </div>
 			</div>
 		</div>

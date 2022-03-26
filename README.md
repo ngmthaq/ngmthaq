@@ -82,9 +82,7 @@
         <i>Code is like the wind</i> <br>
         <i>Always by my side</i>
 </p>
-<br>
 <h2 align="center"></h2>
-<br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
