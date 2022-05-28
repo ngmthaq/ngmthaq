@@ -88,8 +88,7 @@
 # 📑 Note* 📑
 <br>
 <p align="center">
-        <i>Code is like the wind</i> <br>
-        <i>Always by my side</i>
+        [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
 <br>
 <h2 align="center"></h2>
