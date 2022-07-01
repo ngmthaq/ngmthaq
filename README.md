@@ -32,6 +32,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Saga-282C34?logo=redux-saga&logoColor=999999" alt="Redux-Saga logo" title="Redux-Saga" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Electron-282C34?logo=electron&logoColor=47848F" alt="Electron logo" title="Electron" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
