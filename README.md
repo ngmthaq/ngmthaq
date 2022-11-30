@@ -40,8 +40,8 @@
 # 📑 Note* 📑
 <br>
 <p align="center">
-        <i>Code is like the wind</i> <br>
-        <i>Always by my side</i>
+        Email: nguyenmanhthang2000.fb@gmail.com <br>
+        Contact: 039 988 4507
 </p>
 <br>
 <h2 align="center"></h2>
