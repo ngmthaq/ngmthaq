@@ -1,7 +1,4 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div></div>
-
 # 🔥 GitHub Stats 🔥
 <div align="center">
   <a href="javascript:void(0)" title="ngmthaq">
